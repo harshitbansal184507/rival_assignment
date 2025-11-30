@@ -1,0 +1,6202 @@
+[
+  {
+    "timestamp": "2025-01-15T10:00:00Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1170,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 2661,
+    "response_size_bytes": 684
+  },
+  {
+    "timestamp": "2025-01-15T10:00:07.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1959,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 392,
+    "response_size_bytes": 19582
+  },
+  {
+    "timestamp": "2025-01-15T10:00:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 128,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 488,
+    "response_size_bytes": 1936
+  },
+  {
+    "timestamp": "2025-01-15T10:00:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 211,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 265,
+    "response_size_bytes": 2562
+  },
+  {
+    "timestamp": "2025-01-15T10:00:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 220,
+    "status_code": 200,
+    "user_id": "user_010",
+    "request_size_bytes": 306,
+    "response_size_bytes": 1960
+  },
+  {
+    "timestamp": "2025-01-15T10:00:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 427,
+    "response_size_bytes": 1697
+  },
+  {
+    "timestamp": "2025-01-15T10:00:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 189,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 260,
+    "response_size_bytes": 1525
+  },
+  {
+    "timestamp": "2025-01-15T10:00:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 217,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 314,
+    "response_size_bytes": 1797
+  },
+  {
+    "timestamp": "2025-01-15T10:00:57.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1144,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2538,
+    "response_size_bytes": 875
+  },
+  {
+    "timestamp": "2025-01-15T10:01:04.800000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 179,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 462,
+    "response_size_bytes": 2306
+  },
+  {
+    "timestamp": "2025-01-15T10:01:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 112,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 358,
+    "response_size_bytes": 1944
+  },
+  {
+    "timestamp": "2025-01-15T10:01:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 125,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 330,
+    "response_size_bytes": 2245
+  },
+  {
+    "timestamp": "2025-01-15T10:01:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1065,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 2339,
+    "response_size_bytes": 375
+  },
+  {
+    "timestamp": "2025-01-15T10:01:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 217,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 479,
+    "response_size_bytes": 2314
+  },
+  {
+    "timestamp": "2025-01-15T10:01:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 371,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 1355,
+    "response_size_bytes": 11812
+  },
+  {
+    "timestamp": "2025-01-15T10:01:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 161,
+    "status_code": 200,
+    "user_id": "user_007",
+    "request_size_bytes": 378,
+    "response_size_bytes": 1881
+  },
+  {
+    "timestamp": "2025-01-15T10:01:55.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2455,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 295,
+    "response_size_bytes": 20057
+  },
+  {
+    "timestamp": "2025-01-15T10:02:02.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 974,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2789,
+    "response_size_bytes": 300
+  },
+  {
+    "timestamp": "2025-01-15T10:02:09.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 138,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 345,
+    "response_size_bytes": 2175
+  },
+  {
+    "timestamp": "2025-01-15T10:02:16.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1985,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 775,
+    "response_size_bytes": 12729
+  },
+  {
+    "timestamp": "2025-01-15T10:02:24Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 829,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 1441,
+    "response_size_bytes": 762
+  },
+  {
+    "timestamp": "2025-01-15T10:02:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 183,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 467,
+    "response_size_bytes": 1761
+  },
+  {
+    "timestamp": "2025-01-15T10:02:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 145,
+    "status_code": 201,
+    "user_id": "user_003",
+    "request_size_bytes": 398,
+    "response_size_bytes": 1602
+  },
+  {
+    "timestamp": "2025-01-15T10:02:45.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 206,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 281,
+    "response_size_bytes": 3793
+  },
+  {
+    "timestamp": "2025-01-15T10:02:52.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 137,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 311,
+    "response_size_bytes": 722
+  },
+  {
+    "timestamp": "2025-01-15T10:03:00Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 810,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1110,
+    "response_size_bytes": 988
+  },
+  {
+    "timestamp": "2025-01-15T10:03:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 197,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 371,
+    "response_size_bytes": 1911
+  },
+  {
+    "timestamp": "2025-01-15T10:03:14.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 960,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 1113,
+    "response_size_bytes": 919
+  },
+  {
+    "timestamp": "2025-01-15T10:03:21.600000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2293,
+    "status_code": 201,
+    "user_id": "user_025",
+    "request_size_bytes": 405,
+    "response_size_bytes": 18664
+  },
+  {
+    "timestamp": "2025-01-15T10:03:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 107,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 279,
+    "response_size_bytes": 1526
+  },
+  {
+    "timestamp": "2025-01-15T10:03:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 177,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 511,
+    "response_size_bytes": 1821
+  },
+  {
+    "timestamp": "2025-01-15T10:03:43.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 213,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 351,
+    "response_size_bytes": 1188
+  },
+  {
+    "timestamp": "2025-01-15T10:03:50.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 323,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1712,
+    "response_size_bytes": 7582
+  },
+  {
+    "timestamp": "2025-01-15T10:03:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 170,
+    "status_code": 201,
+    "user_id": "user_006",
+    "request_size_bytes": 261,
+    "response_size_bytes": 2173
+  },
+  {
+    "timestamp": "2025-01-15T10:04:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 156,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 402,
+    "response_size_bytes": 1477
+  },
+  {
+    "timestamp": "2025-01-15T10:04:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 148,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 451,
+    "response_size_bytes": 1548
+  },
+  {
+    "timestamp": "2025-01-15T10:04:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 128,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 509,
+    "response_size_bytes": 3533
+  },
+  {
+    "timestamp": "2025-01-15T10:04:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1129,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1598,
+    "response_size_bytes": 284
+  },
+  {
+    "timestamp": "2025-01-15T10:04:33.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1135,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2667,
+    "response_size_bytes": 595
+  },
+  {
+    "timestamp": "2025-01-15T10:04:40.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1884,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 723,
+    "response_size_bytes": 19981
+  },
+  {
+    "timestamp": "2025-01-15T10:04:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 127,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 365,
+    "response_size_bytes": 1270
+  },
+  {
+    "timestamp": "2025-01-15T10:04:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 88,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 350,
+    "response_size_bytes": 1788
+  },
+  {
+    "timestamp": "2025-01-15T10:05:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 226,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 407,
+    "response_size_bytes": 3250
+  },
+  {
+    "timestamp": "2025-01-15T10:05:09.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 783,
+    "status_code": 400,
+    "user_id": "user_017",
+    "request_size_bytes": 2705,
+    "response_size_bytes": 721
+  },
+  {
+    "timestamp": "2025-01-15T10:05:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 221,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 312,
+    "response_size_bytes": 2646
+  },
+  {
+    "timestamp": "2025-01-15T10:05:24Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 186,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 441,
+    "response_size_bytes": 1354
+  },
+  {
+    "timestamp": "2025-01-15T10:05:31.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2151,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 340,
+    "response_size_bytes": 15486
+  },
+  {
+    "timestamp": "2025-01-15T10:05:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 195,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 293,
+    "response_size_bytes": 1995
+  },
+  {
+    "timestamp": "2025-01-15T10:05:45.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 149,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 325,
+    "response_size_bytes": 811
+  },
+  {
+    "timestamp": "2025-01-15T10:05:52.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2444,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 267,
+    "response_size_bytes": 19939
+  },
+  {
+    "timestamp": "2025-01-15T10:06:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 147,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 286,
+    "response_size_bytes": 1555
+  },
+  {
+    "timestamp": "2025-01-15T10:06:07.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 194,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 354,
+    "response_size_bytes": 1222
+  },
+  {
+    "timestamp": "2025-01-15T10:06:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 193,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 372,
+    "response_size_bytes": 1492
+  },
+  {
+    "timestamp": "2025-01-15T10:06:21.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2191,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 638,
+    "response_size_bytes": 19631
+  },
+  {
+    "timestamp": "2025-01-15T10:06:28.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 975,
+    "status_code": 400,
+    "user_id": "user_012",
+    "request_size_bytes": 1538,
+    "response_size_bytes": 434
+  },
+  {
+    "timestamp": "2025-01-15T10:06:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 186,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 370,
+    "response_size_bytes": 3105
+  },
+  {
+    "timestamp": "2025-01-15T10:06:43.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1057,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 3050,
+    "response_size_bytes": 611
+  },
+  {
+    "timestamp": "2025-01-15T10:06:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 210,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 292,
+    "response_size_bytes": 2794
+  },
+  {
+    "timestamp": "2025-01-15T10:06:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 176,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 313,
+    "response_size_bytes": 2174
+  },
+  {
+    "timestamp": "2025-01-15T10:07:04.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 234,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 436,
+    "response_size_bytes": 3613
+  },
+  {
+    "timestamp": "2025-01-15T10:07:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 220,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 309,
+    "response_size_bytes": 1336
+  },
+  {
+    "timestamp": "2025-01-15T10:07:19.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 144,
+    "status_code": 201,
+    "user_id": "user_015",
+    "request_size_bytes": 498,
+    "response_size_bytes": 899
+  },
+  {
+    "timestamp": "2025-01-15T10:07:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1167,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1060,
+    "response_size_bytes": 742
+  },
+  {
+    "timestamp": "2025-01-15T10:07:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 113,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 292,
+    "response_size_bytes": 3859
+  },
+  {
+    "timestamp": "2025-01-15T10:07:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 320,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1522,
+    "response_size_bytes": 11686
+  },
+  {
+    "timestamp": "2025-01-15T10:07:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 445,
+    "response_size_bytes": 2494
+  },
+  {
+    "timestamp": "2025-01-15T10:07:55.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1000,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 2568,
+    "response_size_bytes": 970
+  },
+  {
+    "timestamp": "2025-01-15T10:08:02.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1005,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 1798,
+    "response_size_bytes": 613
+  },
+  {
+    "timestamp": "2025-01-15T10:08:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 143,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 461,
+    "response_size_bytes": 1188
+  },
+  {
+    "timestamp": "2025-01-15T10:08:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 230,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 395,
+    "response_size_bytes": 2071
+  },
+  {
+    "timestamp": "2025-01-15T10:08:24Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1060,
+    "status_code": 400,
+    "user_id": "user_001",
+    "request_size_bytes": 2658,
+    "response_size_bytes": 942
+  },
+  {
+    "timestamp": "2025-01-15T10:08:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 97,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 301,
+    "response_size_bytes": 1925
+  },
+  {
+    "timestamp": "2025-01-15T10:08:38.400000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2028,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 455,
+    "response_size_bytes": 14015
+  },
+  {
+    "timestamp": "2025-01-15T10:08:45.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 817,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 1519,
+    "response_size_bytes": 658
+  },
+  {
+    "timestamp": "2025-01-15T10:08:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 218,
+    "status_code": 201,
+    "user_id": "user_022",
+    "request_size_bytes": 311,
+    "response_size_bytes": 2863
+  },
+  {
+    "timestamp": "2025-01-15T10:09:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 196,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 504,
+    "response_size_bytes": 1838
+  },
+  {
+    "timestamp": "2025-01-15T10:09:07.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 446,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 755,
+    "response_size_bytes": 9786
+  },
+  {
+    "timestamp": "2025-01-15T10:09:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 203,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 314,
+    "response_size_bytes": 2087
+  },
+  {
+    "timestamp": "2025-01-15T10:09:21.600000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2013,
+    "status_code": 201,
+    "user_id": "user_010",
+    "request_size_bytes": 785,
+    "response_size_bytes": 16605
+  },
+  {
+    "timestamp": "2025-01-15T10:09:28.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 513,
+    "status_code": 200,
+    "user_id": "user_007",
+    "request_size_bytes": 847,
+    "response_size_bytes": 11590
+  },
+  {
+    "timestamp": "2025-01-15T10:09:36Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 250,
+    "status_code": 404,
+    "user_id": "user_003",
+    "request_size_bytes": 325,
+    "response_size_bytes": 1175
+  },
+  {
+    "timestamp": "2025-01-15T10:09:43.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 568,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1107,
+    "response_size_bytes": 7416
+  },
+  {
+    "timestamp": "2025-01-15T10:09:50.400000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1972,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 737,
+    "response_size_bytes": 18754
+  },
+  {
+    "timestamp": "2025-01-15T10:09:57.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 156,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 493,
+    "response_size_bytes": 1127
+  },
+  {
+    "timestamp": "2025-01-15T10:10:04.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 458,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 1093,
+    "response_size_bytes": 5815
+  },
+  {
+    "timestamp": "2025-01-15T10:10:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 224,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 401,
+    "response_size_bytes": 3429
+  },
+  {
+    "timestamp": "2025-01-15T10:10:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 117,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 329,
+    "response_size_bytes": 2319
+  },
+  {
+    "timestamp": "2025-01-15T10:10:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1067,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1154,
+    "response_size_bytes": 547
+  },
+  {
+    "timestamp": "2025-01-15T10:10:33.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2149,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 777,
+    "response_size_bytes": 19591
+  },
+  {
+    "timestamp": "2025-01-15T10:10:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 312,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1644,
+    "response_size_bytes": 9563
+  },
+  {
+    "timestamp": "2025-01-15T10:10:48Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 376,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 1304,
+    "response_size_bytes": 10280
+  },
+  {
+    "timestamp": "2025-01-15T10:10:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 161,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 410,
+    "response_size_bytes": 861
+  },
+  {
+    "timestamp": "2025-01-15T10:11:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 116,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 387,
+    "response_size_bytes": 1952
+  },
+  {
+    "timestamp": "2025-01-15T10:11:09.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 976,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 2822,
+    "response_size_bytes": 784
+  },
+  {
+    "timestamp": "2025-01-15T10:11:16.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2262,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 965,
+    "response_size_bytes": 18432
+  },
+  {
+    "timestamp": "2025-01-15T10:11:24Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 196,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 294,
+    "response_size_bytes": 2191
+  },
+  {
+    "timestamp": "2025-01-15T10:11:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 136,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 477,
+    "response_size_bytes": 1800
+  },
+  {
+    "timestamp": "2025-01-15T10:11:38.400000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 171,
+    "status_code": 201,
+    "user_id": "user_005",
+    "request_size_bytes": 312,
+    "response_size_bytes": 2333
+  },
+  {
+    "timestamp": "2025-01-15T10:11:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 322,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 1328,
+    "response_size_bytes": 11655
+  },
+  {
+    "timestamp": "2025-01-15T10:11:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 238,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 508,
+    "response_size_bytes": 3439
+  },
+  {
+    "timestamp": "2025-01-15T10:12:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 328,
+    "response_size_bytes": 1274
+  },
+  {
+    "timestamp": "2025-01-15T10:12:07.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2414,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 289,
+    "response_size_bytes": 17231
+  },
+  {
+    "timestamp": "2025-01-15T10:12:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 186,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 510,
+    "response_size_bytes": 648
+  },
+  {
+    "timestamp": "2025-01-15T10:12:21.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 168,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 413,
+    "response_size_bytes": 796
+  },
+  {
+    "timestamp": "2025-01-15T10:12:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 208,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 358,
+    "response_size_bytes": 3841
+  },
+  {
+    "timestamp": "2025-01-15T10:12:36Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 156,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 354,
+    "response_size_bytes": 3593
+  },
+  {
+    "timestamp": "2025-01-15T10:12:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 150,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 280,
+    "response_size_bytes": 1923
+  },
+  {
+    "timestamp": "2025-01-15T10:12:50.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 786,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 1087,
+    "response_size_bytes": 813
+  },
+  {
+    "timestamp": "2025-01-15T10:12:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 209,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 265,
+    "response_size_bytes": 1495
+  },
+  {
+    "timestamp": "2025-01-15T10:13:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 190,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 488,
+    "response_size_bytes": 681
+  },
+  {
+    "timestamp": "2025-01-15T10:13:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 408,
+    "response_size_bytes": 961
+  },
+  {
+    "timestamp": "2025-01-15T10:13:19.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 165,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 388,
+    "response_size_bytes": 1356
+  },
+  {
+    "timestamp": "2025-01-15T10:13:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1137,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2035,
+    "response_size_bytes": 577
+  },
+  {
+    "timestamp": "2025-01-15T10:13:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 132,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 357,
+    "response_size_bytes": 1834
+  },
+  {
+    "timestamp": "2025-01-15T10:13:40.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2337,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 1008,
+    "response_size_bytes": 17710
+  },
+  {
+    "timestamp": "2025-01-15T10:13:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 188,
+    "status_code": 404,
+    "user_id": "user_018",
+    "request_size_bytes": 306,
+    "response_size_bytes": 1190
+  },
+  {
+    "timestamp": "2025-01-15T10:13:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 176,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 258,
+    "response_size_bytes": 554
+  },
+  {
+    "timestamp": "2025-01-15T10:14:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 202,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 493,
+    "response_size_bytes": 3001
+  },
+  {
+    "timestamp": "2025-01-15T10:14:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 147,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 449,
+    "response_size_bytes": 1880
+  },
+  {
+    "timestamp": "2025-01-15T10:14:16.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 169,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 303,
+    "response_size_bytes": 1985
+  },
+  {
+    "timestamp": "2025-01-15T10:14:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 151,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 356,
+    "response_size_bytes": 941
+  },
+  {
+    "timestamp": "2025-01-15T10:14:31.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 246,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 461,
+    "response_size_bytes": 3943
+  },
+  {
+    "timestamp": "2025-01-15T10:14:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 281,
+    "response_size_bytes": 638
+  },
+  {
+    "timestamp": "2025-01-15T10:14:45.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 792,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 2889,
+    "response_size_bytes": 363
+  },
+  {
+    "timestamp": "2025-01-15T10:14:52.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 502,
+    "response_size_bytes": 1467
+  },
+  {
+    "timestamp": "2025-01-15T10:15:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 505,
+    "response_size_bytes": 1866
+  },
+  {
+    "timestamp": "2025-01-15T10:15:07.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 178,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 435,
+    "response_size_bytes": 1556
+  },
+  {
+    "timestamp": "2025-01-15T10:15:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 235,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 492,
+    "response_size_bytes": 1571
+  },
+  {
+    "timestamp": "2025-01-15T10:15:21.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2133,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 494,
+    "response_size_bytes": 18019
+  },
+  {
+    "timestamp": "2025-01-15T10:15:28.800000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 125,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 374,
+    "response_size_bytes": 1358
+  },
+  {
+    "timestamp": "2025-01-15T10:15:36Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 308,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 1683,
+    "response_size_bytes": 12256
+  },
+  {
+    "timestamp": "2025-01-15T10:15:43.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 139,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 397,
+    "response_size_bytes": 2400
+  },
+  {
+    "timestamp": "2025-01-15T10:15:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 147,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 505,
+    "response_size_bytes": 2419
+  },
+  {
+    "timestamp": "2025-01-15T10:15:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 376,
+    "response_size_bytes": 3292
+  },
+  {
+    "timestamp": "2025-01-15T10:16:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 190,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 306,
+    "response_size_bytes": 796
+  },
+  {
+    "timestamp": "2025-01-15T10:16:12Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 149,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 351,
+    "response_size_bytes": 3384
+  },
+  {
+    "timestamp": "2025-01-15T10:16:19.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 102,
+    "status_code": 201,
+    "user_id": "user_005",
+    "request_size_bytes": 334,
+    "response_size_bytes": 1244
+  },
+  {
+    "timestamp": "2025-01-15T10:16:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 86,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 311,
+    "response_size_bytes": 1623
+  },
+  {
+    "timestamp": "2025-01-15T10:16:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 239,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 266,
+    "response_size_bytes": 1412
+  },
+  {
+    "timestamp": "2025-01-15T10:16:40.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 473,
+    "response_size_bytes": 1214
+  },
+  {
+    "timestamp": "2025-01-15T10:16:48Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 767,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1542,
+    "response_size_bytes": 835
+  },
+  {
+    "timestamp": "2025-01-15T10:16:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 147,
+    "status_code": 201,
+    "user_id": "user_020",
+    "request_size_bytes": 264,
+    "response_size_bytes": 3156
+  },
+  {
+    "timestamp": "2025-01-15T10:17:02.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 122,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 461,
+    "response_size_bytes": 2001
+  },
+  {
+    "timestamp": "2025-01-15T10:17:09.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 218,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 281,
+    "response_size_bytes": 1209
+  },
+  {
+    "timestamp": "2025-01-15T10:17:16.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1048,
+    "status_code": 200,
+    "user_id": "user_007",
+    "request_size_bytes": 2622,
+    "response_size_bytes": 480
+  },
+  {
+    "timestamp": "2025-01-15T10:17:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 142,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 273,
+    "response_size_bytes": 1847
+  },
+  {
+    "timestamp": "2025-01-15T10:17:31.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 421,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 1895,
+    "response_size_bytes": 7072
+  },
+  {
+    "timestamp": "2025-01-15T10:17:38.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 828,
+    "status_code": 500,
+    "user_id": "user_001",
+    "request_size_bytes": 1421,
+    "response_size_bytes": 667
+  },
+  {
+    "timestamp": "2025-01-15T10:17:45.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 137,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 426,
+    "response_size_bytes": 1720
+  },
+  {
+    "timestamp": "2025-01-15T10:17:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 419,
+    "response_size_bytes": 3059
+  },
+  {
+    "timestamp": "2025-01-15T10:18:00Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 364,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 584,
+    "response_size_bytes": 7056
+  },
+  {
+    "timestamp": "2025-01-15T10:18:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 162,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 420,
+    "response_size_bytes": 635
+  },
+  {
+    "timestamp": "2025-01-15T10:18:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 134,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 436,
+    "response_size_bytes": 824
+  },
+  {
+    "timestamp": "2025-01-15T10:18:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 245,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 512,
+    "response_size_bytes": 1914
+  },
+  {
+    "timestamp": "2025-01-15T10:18:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 162,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 420,
+    "response_size_bytes": 2721
+  },
+  {
+    "timestamp": "2025-01-15T10:18:36Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 427,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 1548,
+    "response_size_bytes": 6305
+  },
+  {
+    "timestamp": "2025-01-15T10:18:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 417,
+    "response_size_bytes": 1809
+  },
+  {
+    "timestamp": "2025-01-15T10:18:50.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1075,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 2604,
+    "response_size_bytes": 621
+  },
+  {
+    "timestamp": "2025-01-15T10:18:57.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2371,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 854,
+    "response_size_bytes": 20464
+  },
+  {
+    "timestamp": "2025-01-15T10:19:04.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 134,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 331,
+    "response_size_bytes": 3458
+  },
+  {
+    "timestamp": "2025-01-15T10:19:12Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1904,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 831,
+    "response_size_bytes": 13764
+  },
+  {
+    "timestamp": "2025-01-15T10:19:19.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 491,
+    "response_size_bytes": 1750
+  },
+  {
+    "timestamp": "2025-01-15T10:19:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 193,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 357,
+    "response_size_bytes": 582
+  },
+  {
+    "timestamp": "2025-01-15T10:19:33.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 468,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 535,
+    "response_size_bytes": 11461
+  },
+  {
+    "timestamp": "2025-01-15T10:19:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 472,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 877,
+    "response_size_bytes": 4882
+  },
+  {
+    "timestamp": "2025-01-15T10:19:48Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2315,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 860,
+    "response_size_bytes": 14025
+  },
+  {
+    "timestamp": "2025-01-15T10:19:55.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 736,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 1888,
+    "response_size_bytes": 396
+  },
+  {
+    "timestamp": "2025-01-15T10:20:02.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 159,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 258,
+    "response_size_bytes": 516
+  },
+  {
+    "timestamp": "2025-01-15T10:20:09.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 425,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1422,
+    "response_size_bytes": 11908
+  },
+  {
+    "timestamp": "2025-01-15T10:20:16.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 342,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 1046,
+    "response_size_bytes": 5551
+  },
+  {
+    "timestamp": "2025-01-15T10:20:24Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1855,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 517,
+    "response_size_bytes": 14856
+  },
+  {
+    "timestamp": "2025-01-15T10:20:31.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 916,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 1254,
+    "response_size_bytes": 708
+  },
+  {
+    "timestamp": "2025-01-15T10:20:38.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 442,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 1896,
+    "response_size_bytes": 4383
+  },
+  {
+    "timestamp": "2025-01-15T10:20:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 402,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1005,
+    "response_size_bytes": 7950
+  },
+  {
+    "timestamp": "2025-01-15T10:20:52.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 411,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 1542,
+    "response_size_bytes": 11405
+  },
+  {
+    "timestamp": "2025-01-15T10:21:00Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 344,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1783,
+    "response_size_bytes": 4529
+  },
+  {
+    "timestamp": "2025-01-15T10:21:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 83,
+    "status_code": 201,
+    "user_id": "user_022",
+    "request_size_bytes": 509,
+    "response_size_bytes": 651
+  },
+  {
+    "timestamp": "2025-01-15T10:21:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 129,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 352,
+    "response_size_bytes": 1741
+  },
+  {
+    "timestamp": "2025-01-15T10:21:21.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 326,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2013,
+    "response_size_bytes": 6156
+  },
+  {
+    "timestamp": "2025-01-15T10:21:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 173,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 440,
+    "response_size_bytes": 3097
+  },
+  {
+    "timestamp": "2025-01-15T10:21:36Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2451,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 525,
+    "response_size_bytes": 15271
+  },
+  {
+    "timestamp": "2025-01-15T10:21:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 138,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 383,
+    "response_size_bytes": 1080
+  },
+  {
+    "timestamp": "2025-01-15T10:21:50.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 395,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 1460,
+    "response_size_bytes": 9201
+  },
+  {
+    "timestamp": "2025-01-15T10:21:57.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 379,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 637,
+    "response_size_bytes": 11009
+  },
+  {
+    "timestamp": "2025-01-15T10:22:04.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 503,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1015,
+    "response_size_bytes": 7127
+  },
+  {
+    "timestamp": "2025-01-15T10:22:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 185,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 460,
+    "response_size_bytes": 3749
+  },
+  {
+    "timestamp": "2025-01-15T10:22:19.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 488,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 739,
+    "response_size_bytes": 6775
+  },
+  {
+    "timestamp": "2025-01-15T10:22:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 822,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 2296,
+    "response_size_bytes": 795
+  },
+  {
+    "timestamp": "2025-01-15T10:22:33.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 442,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 597,
+    "response_size_bytes": 4663
+  },
+  {
+    "timestamp": "2025-01-15T10:22:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 469,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 1233,
+    "response_size_bytes": 7224
+  },
+  {
+    "timestamp": "2025-01-15T10:22:48Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 411,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 794,
+    "response_size_bytes": 12078
+  },
+  {
+    "timestamp": "2025-01-15T10:22:55.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 413,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 1180,
+    "response_size_bytes": 4261
+  },
+  {
+    "timestamp": "2025-01-15T10:23:02.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 481,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 825,
+    "response_size_bytes": 7887
+  },
+  {
+    "timestamp": "2025-01-15T10:23:09.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 374,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 783,
+    "response_size_bytes": 11112
+  },
+  {
+    "timestamp": "2025-01-15T10:23:16.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 374,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1944,
+    "response_size_bytes": 5891
+  },
+  {
+    "timestamp": "2025-01-15T10:23:24Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 506,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 740,
+    "response_size_bytes": 10136
+  },
+  {
+    "timestamp": "2025-01-15T10:23:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 146,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 479,
+    "response_size_bytes": 1922
+  },
+  {
+    "timestamp": "2025-01-15T10:23:38.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 465,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 1378,
+    "response_size_bytes": 10577
+  },
+  {
+    "timestamp": "2025-01-15T10:23:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 417,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 1606,
+    "response_size_bytes": 8889
+  },
+  {
+    "timestamp": "2025-01-15T10:23:52.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 754,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2176,
+    "response_size_bytes": 855
+  },
+  {
+    "timestamp": "2025-01-15T10:24:00Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 453,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 698,
+    "response_size_bytes": 6366
+  },
+  {
+    "timestamp": "2025-01-15T10:24:07.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 498,
+    "status_code": 400,
+    "user_id": "user_030",
+    "request_size_bytes": 1365,
+    "response_size_bytes": 4453
+  },
+  {
+    "timestamp": "2025-01-15T10:24:14.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1149,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 2041,
+    "response_size_bytes": 850
+  },
+  {
+    "timestamp": "2025-01-15T10:24:21.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 370,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1506,
+    "response_size_bytes": 6028
+  },
+  {
+    "timestamp": "2025-01-15T10:24:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 206,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 464,
+    "response_size_bytes": 2131
+  },
+  {
+    "timestamp": "2025-01-15T10:24:36Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 93,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 305,
+    "response_size_bytes": 1705
+  },
+  {
+    "timestamp": "2025-01-15T10:24:43.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 572,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 1782,
+    "response_size_bytes": 5676
+  },
+  {
+    "timestamp": "2025-01-15T10:24:50.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 157,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 322,
+    "response_size_bytes": 1665
+  },
+  {
+    "timestamp": "2025-01-15T10:24:57.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2453,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 504,
+    "response_size_bytes": 20097
+  },
+  {
+    "timestamp": "2025-01-15T10:25:04.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1029,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1659,
+    "response_size_bytes": 924
+  },
+  {
+    "timestamp": "2025-01-15T10:25:12Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 527,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 550,
+    "response_size_bytes": 4397
+  },
+  {
+    "timestamp": "2025-01-15T10:25:19.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 142,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 489,
+    "response_size_bytes": 1954
+  },
+  {
+    "timestamp": "2025-01-15T10:25:26.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 233,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 266,
+    "response_size_bytes": 1374
+  },
+  {
+    "timestamp": "2025-01-15T10:25:33.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 314,
+    "response_size_bytes": 545
+  },
+  {
+    "timestamp": "2025-01-15T10:25:40.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2295,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 933,
+    "response_size_bytes": 20139
+  },
+  {
+    "timestamp": "2025-01-15T10:25:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 123,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 411,
+    "response_size_bytes": 3069
+  },
+  {
+    "timestamp": "2025-01-15T10:25:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 145,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 462,
+    "response_size_bytes": 2324
+  },
+  {
+    "timestamp": "2025-01-15T10:26:02.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 714,
+    "status_code": 500,
+    "user_id": "user_019",
+    "request_size_bytes": 1537,
+    "response_size_bytes": 670
+  },
+  {
+    "timestamp": "2025-01-15T10:26:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 108,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 411,
+    "response_size_bytes": 1877
+  },
+  {
+    "timestamp": "2025-01-15T10:26:16.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1193,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 2615,
+    "response_size_bytes": 575
+  },
+  {
+    "timestamp": "2025-01-15T10:26:24Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 816,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1633,
+    "response_size_bytes": 677
+  },
+  {
+    "timestamp": "2025-01-15T10:26:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 94,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 390,
+    "response_size_bytes": 544
+  },
+  {
+    "timestamp": "2025-01-15T10:26:38.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 153,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 383,
+    "response_size_bytes": 1399
+  },
+  {
+    "timestamp": "2025-01-15T10:26:45.600000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 108,
+    "status_code": 201,
+    "user_id": "user_009",
+    "request_size_bytes": 481,
+    "response_size_bytes": 774
+  },
+  {
+    "timestamp": "2025-01-15T10:26:52.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 100,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 331,
+    "response_size_bytes": 1706
+  },
+  {
+    "timestamp": "2025-01-15T10:27:00Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 535,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1328,
+    "response_size_bytes": 5423
+  },
+  {
+    "timestamp": "2025-01-15T10:27:07.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 302,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 1266,
+    "response_size_bytes": 8625
+  },
+  {
+    "timestamp": "2025-01-15T10:27:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 124,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 398,
+    "response_size_bytes": 2697
+  },
+  {
+    "timestamp": "2025-01-15T10:27:21.600000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 196,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 505,
+    "response_size_bytes": 849
+  },
+  {
+    "timestamp": "2025-01-15T10:27:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 171,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 428,
+    "response_size_bytes": 3141
+  },
+  {
+    "timestamp": "2025-01-15T10:27:36Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 189,
+    "status_code": 400,
+    "user_id": "user_027",
+    "request_size_bytes": 384,
+    "response_size_bytes": 570
+  },
+  {
+    "timestamp": "2025-01-15T10:27:43.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 126,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 459,
+    "response_size_bytes": 1650
+  },
+  {
+    "timestamp": "2025-01-15T10:27:50.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 162,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 479,
+    "response_size_bytes": 1501
+  },
+  {
+    "timestamp": "2025-01-15T10:27:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 216,
+    "status_code": 500,
+    "user_id": "user_003",
+    "request_size_bytes": 434,
+    "response_size_bytes": 2730
+  },
+  {
+    "timestamp": "2025-01-15T10:28:04.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 116,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 464,
+    "response_size_bytes": 2078
+  },
+  {
+    "timestamp": "2025-01-15T10:28:12Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 462,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 996,
+    "response_size_bytes": 9780
+  },
+  {
+    "timestamp": "2025-01-15T10:28:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 213,
+    "status_code": 201,
+    "user_id": "user_007",
+    "request_size_bytes": 429,
+    "response_size_bytes": 2924
+  },
+  {
+    "timestamp": "2025-01-15T10:28:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 105,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 275,
+    "response_size_bytes": 1393
+  },
+  {
+    "timestamp": "2025-01-15T10:28:33.600000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 94,
+    "status_code": 201,
+    "user_id": "user_004",
+    "request_size_bytes": 500,
+    "response_size_bytes": 983
+  },
+  {
+    "timestamp": "2025-01-15T10:28:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 361,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 1794,
+    "response_size_bytes": 8620
+  },
+  {
+    "timestamp": "2025-01-15T10:28:48Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 435,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 959,
+    "response_size_bytes": 10472
+  },
+  {
+    "timestamp": "2025-01-15T10:28:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 118,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 260,
+    "response_size_bytes": 1897
+  },
+  {
+    "timestamp": "2025-01-15T10:29:02.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 450,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 1724,
+    "response_size_bytes": 10420
+  },
+  {
+    "timestamp": "2025-01-15T10:29:09.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2130,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 268,
+    "response_size_bytes": 18527
+  },
+  {
+    "timestamp": "2025-01-15T10:29:16.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 587,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1104,
+    "response_size_bytes": 12047
+  },
+  {
+    "timestamp": "2025-01-15T10:29:24Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1127,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 1162,
+    "response_size_bytes": 785
+  },
+  {
+    "timestamp": "2025-01-15T10:29:31.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1093,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 1719,
+    "response_size_bytes": 620
+  },
+  {
+    "timestamp": "2025-01-15T10:29:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 120,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 333,
+    "response_size_bytes": 1931
+  },
+  {
+    "timestamp": "2025-01-15T10:29:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 510,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 1551,
+    "response_size_bytes": 11803
+  },
+  {
+    "timestamp": "2025-01-15T10:29:52.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 92,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 342,
+    "response_size_bytes": 1924
+  },
+  {
+    "timestamp": "2025-01-15T10:30:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 117,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 345,
+    "response_size_bytes": 903
+  },
+  {
+    "timestamp": "2025-01-15T10:30:07.200000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 201,
+    "status_code": 201,
+    "user_id": "user_024",
+    "request_size_bytes": 363,
+    "response_size_bytes": 1739
+  },
+  {
+    "timestamp": "2025-01-15T10:30:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 348,
+    "response_size_bytes": 1795
+  },
+  {
+    "timestamp": "2025-01-15T10:30:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 438,
+    "response_size_bytes": 3176
+  },
+  {
+    "timestamp": "2025-01-15T10:30:28.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 460,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 1343,
+    "response_size_bytes": 7950
+  },
+  {
+    "timestamp": "2025-01-15T10:30:36Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 305,
+    "response_size_bytes": 1528
+  },
+  {
+    "timestamp": "2025-01-15T10:30:43.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1912,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 1009,
+    "response_size_bytes": 16229
+  },
+  {
+    "timestamp": "2025-01-15T10:30:50.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 115,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 364,
+    "response_size_bytes": 1336
+  },
+  {
+    "timestamp": "2025-01-15T10:30:57.600000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2289,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 582,
+    "response_size_bytes": 15186
+  },
+  {
+    "timestamp": "2025-01-15T10:31:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 104,
+    "status_code": 201,
+    "user_id": "user_005",
+    "request_size_bytes": 497,
+    "response_size_bytes": 1165
+  },
+  {
+    "timestamp": "2025-01-15T10:31:12Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2102,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 521,
+    "response_size_bytes": 18096
+  },
+  {
+    "timestamp": "2025-01-15T10:31:19.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 450,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1382,
+    "response_size_bytes": 9742
+  },
+  {
+    "timestamp": "2025-01-15T10:31:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 85,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 320,
+    "response_size_bytes": 642
+  },
+  {
+    "timestamp": "2025-01-15T10:31:33.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 324,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1565,
+    "response_size_bytes": 8164
+  },
+  {
+    "timestamp": "2025-01-15T10:31:40.800000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2209,
+    "status_code": 201,
+    "user_id": "user_023",
+    "request_size_bytes": 282,
+    "response_size_bytes": 15242
+  },
+  {
+    "timestamp": "2025-01-15T10:31:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 136,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 448,
+    "response_size_bytes": 554
+  },
+  {
+    "timestamp": "2025-01-15T10:31:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 156,
+    "status_code": 200,
+    "user_id": "user_005",
+    "request_size_bytes": 378,
+    "response_size_bytes": 1586
+  },
+  {
+    "timestamp": "2025-01-15T10:32:02.400000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2215,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 356,
+    "response_size_bytes": 16838
+  },
+  {
+    "timestamp": "2025-01-15T10:32:09.600000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 2320,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 316,
+    "response_size_bytes": 20113
+  },
+  {
+    "timestamp": "2025-01-15T10:32:16.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1109,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1913,
+    "response_size_bytes": 887
+  },
+  {
+    "timestamp": "2025-01-15T10:32:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 150,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 261,
+    "response_size_bytes": 1466
+  },
+  {
+    "timestamp": "2025-01-15T10:32:31.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1094,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2295,
+    "response_size_bytes": 517
+  },
+  {
+    "timestamp": "2025-01-15T10:32:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 169,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 462,
+    "response_size_bytes": 1444
+  },
+  {
+    "timestamp": "2025-01-15T10:32:45.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1194,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1439,
+    "response_size_bytes": 728
+  },
+  {
+    "timestamp": "2025-01-15T10:32:52.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1133,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2124,
+    "response_size_bytes": 276
+  },
+  {
+    "timestamp": "2025-01-15T10:33:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 178,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 337,
+    "response_size_bytes": 1327
+  },
+  {
+    "timestamp": "2025-01-15T10:33:07.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 945,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2172,
+    "response_size_bytes": 817
+  },
+  {
+    "timestamp": "2025-01-15T10:33:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 453,
+    "response_size_bytes": 1702
+  },
+  {
+    "timestamp": "2025-01-15T10:33:21.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 142,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 379,
+    "response_size_bytes": 640
+  },
+  {
+    "timestamp": "2025-01-15T10:33:28.800000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 123,
+    "status_code": 201,
+    "user_id": "user_019",
+    "request_size_bytes": 381,
+    "response_size_bytes": 1049
+  },
+  {
+    "timestamp": "2025-01-15T10:33:36Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1931,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 554,
+    "response_size_bytes": 18540
+  },
+  {
+    "timestamp": "2025-01-15T10:33:43.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1113,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1725,
+    "response_size_bytes": 436
+  },
+  {
+    "timestamp": "2025-01-15T10:33:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 160,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 363,
+    "response_size_bytes": 2354
+  },
+  {
+    "timestamp": "2025-01-15T10:33:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 178,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 491,
+    "response_size_bytes": 1063
+  },
+  {
+    "timestamp": "2025-01-15T10:34:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 115,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 487,
+    "response_size_bytes": 1452
+  },
+  {
+    "timestamp": "2025-01-15T10:34:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 330,
+    "response_size_bytes": 1373
+  },
+  {
+    "timestamp": "2025-01-15T10:34:19.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 804,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 2828,
+    "response_size_bytes": 285
+  },
+  {
+    "timestamp": "2025-01-15T10:34:26.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 460,
+    "response_size_bytes": 1588
+  },
+  {
+    "timestamp": "2025-01-15T10:34:33.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 934,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 3055,
+    "response_size_bytes": 1021
+  },
+  {
+    "timestamp": "2025-01-15T10:34:40.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1146,
+    "status_code": 404,
+    "user_id": "user_009",
+    "request_size_bytes": 1833,
+    "response_size_bytes": 385
+  },
+  {
+    "timestamp": "2025-01-15T10:34:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 88,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 327,
+    "response_size_bytes": 1520
+  },
+  {
+    "timestamp": "2025-01-15T10:34:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 88,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 320,
+    "response_size_bytes": 666
+  },
+  {
+    "timestamp": "2025-01-15T10:35:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 107,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 381,
+    "response_size_bytes": 1430
+  },
+  {
+    "timestamp": "2025-01-15T10:35:09.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2195,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 815,
+    "response_size_bytes": 19660
+  },
+  {
+    "timestamp": "2025-01-15T10:35:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 232,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 334,
+    "response_size_bytes": 3791
+  },
+  {
+    "timestamp": "2025-01-15T10:35:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 196,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 374,
+    "response_size_bytes": 1712
+  },
+  {
+    "timestamp": "2025-01-15T10:35:31.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 163,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 369,
+    "response_size_bytes": 1272
+  },
+  {
+    "timestamp": "2025-01-15T10:35:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 90,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 341,
+    "response_size_bytes": 1501
+  },
+  {
+    "timestamp": "2025-01-15T10:35:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 362,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1049,
+    "response_size_bytes": 7852
+  },
+  {
+    "timestamp": "2025-01-15T10:35:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 175,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 358,
+    "response_size_bytes": 4003
+  },
+  {
+    "timestamp": "2025-01-15T10:36:00Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 192,
+    "status_code": 201,
+    "user_id": "user_006",
+    "request_size_bytes": 449,
+    "response_size_bytes": 3035
+  },
+  {
+    "timestamp": "2025-01-15T10:36:07.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 504,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2030,
+    "response_size_bytes": 5857
+  },
+  {
+    "timestamp": "2025-01-15T10:36:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 452,
+    "response_size_bytes": 3275
+  },
+  {
+    "timestamp": "2025-01-15T10:36:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 199,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 366,
+    "response_size_bytes": 2818
+  },
+  {
+    "timestamp": "2025-01-15T10:36:28.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 163,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 456,
+    "response_size_bytes": 547
+  },
+  {
+    "timestamp": "2025-01-15T10:36:36Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 541,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1433,
+    "response_size_bytes": 4141
+  },
+  {
+    "timestamp": "2025-01-15T10:36:43.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2270,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 820,
+    "response_size_bytes": 17856
+  },
+  {
+    "timestamp": "2025-01-15T10:36:50.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 525,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 578,
+    "response_size_bytes": 5724
+  },
+  {
+    "timestamp": "2025-01-15T10:36:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 157,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 285,
+    "response_size_bytes": 3729
+  },
+  {
+    "timestamp": "2025-01-15T10:37:04.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 227,
+    "status_code": 200,
+    "user_id": "user_023",
+    "request_size_bytes": 294,
+    "response_size_bytes": 2472
+  },
+  {
+    "timestamp": "2025-01-15T10:37:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 99,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 452,
+    "response_size_bytes": 1828
+  },
+  {
+    "timestamp": "2025-01-15T10:37:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 295,
+    "response_size_bytes": 3515
+  },
+  {
+    "timestamp": "2025-01-15T10:37:26.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 361,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1121,
+    "response_size_bytes": 11566
+  },
+  {
+    "timestamp": "2025-01-15T10:37:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 221,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 336,
+    "response_size_bytes": 2595
+  },
+  {
+    "timestamp": "2025-01-15T10:37:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 399,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1587,
+    "response_size_bytes": 11897
+  },
+  {
+    "timestamp": "2025-01-15T10:37:48Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 136,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 501,
+    "response_size_bytes": 537
+  },
+  {
+    "timestamp": "2025-01-15T10:37:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 93,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 377,
+    "response_size_bytes": 1993
+  },
+  {
+    "timestamp": "2025-01-15T10:38:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 242,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 412,
+    "response_size_bytes": 3739
+  },
+  {
+    "timestamp": "2025-01-15T10:38:09.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 166,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 398,
+    "response_size_bytes": 2325
+  },
+  {
+    "timestamp": "2025-01-15T10:38:16.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 113,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 374,
+    "response_size_bytes": 1357
+  },
+  {
+    "timestamp": "2025-01-15T10:38:24Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 398,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1666,
+    "response_size_bytes": 7048
+  },
+  {
+    "timestamp": "2025-01-15T10:38:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 108,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 431,
+    "response_size_bytes": 1337
+  },
+  {
+    "timestamp": "2025-01-15T10:38:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 134,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 357,
+    "response_size_bytes": 1815
+  },
+  {
+    "timestamp": "2025-01-15T10:38:45.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1099,
+    "status_code": 500,
+    "user_id": "user_001",
+    "request_size_bytes": 2862,
+    "response_size_bytes": 312
+  },
+  {
+    "timestamp": "2025-01-15T10:38:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 146,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 330,
+    "response_size_bytes": 3183
+  },
+  {
+    "timestamp": "2025-01-15T10:39:00Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1038,
+    "status_code": 500,
+    "user_id": "user_001",
+    "request_size_bytes": 2584,
+    "response_size_bytes": 760
+  },
+  {
+    "timestamp": "2025-01-15T10:39:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 126,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 267,
+    "response_size_bytes": 783
+  },
+  {
+    "timestamp": "2025-01-15T10:39:14.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 979,
+    "status_code": 500,
+    "user_id": "user_001",
+    "request_size_bytes": 1989,
+    "response_size_bytes": 375
+  },
+  {
+    "timestamp": "2025-01-15T10:39:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 113,
+    "status_code": 201,
+    "user_id": "user_026",
+    "request_size_bytes": 466,
+    "response_size_bytes": 3873
+  },
+  {
+    "timestamp": "2025-01-15T10:39:28.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 949,
+    "status_code": 503,
+    "user_id": "user_026",
+    "request_size_bytes": 1250,
+    "response_size_bytes": 329
+  },
+  {
+    "timestamp": "2025-01-15T10:39:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 191,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 449,
+    "response_size_bytes": 1755
+  },
+  {
+    "timestamp": "2025-01-15T10:39:43.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 138,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 274,
+    "response_size_bytes": 2281
+  },
+  {
+    "timestamp": "2025-01-15T10:39:50.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 129,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 426,
+    "response_size_bytes": 1668
+  },
+  {
+    "timestamp": "2025-01-15T10:39:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 148,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 458,
+    "response_size_bytes": 3920
+  },
+  {
+    "timestamp": "2025-01-15T10:40:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 107,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 315,
+    "response_size_bytes": 1702
+  },
+  {
+    "timestamp": "2025-01-15T10:40:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 173,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 362,
+    "response_size_bytes": 3563
+  },
+  {
+    "timestamp": "2025-01-15T10:40:19.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 708,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1882,
+    "response_size_bytes": 480
+  },
+  {
+    "timestamp": "2025-01-15T10:40:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 98,
+    "status_code": 200,
+    "user_id": "user_010",
+    "request_size_bytes": 292,
+    "response_size_bytes": 1810
+  },
+  {
+    "timestamp": "2025-01-15T10:40:33.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 151,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 419,
+    "response_size_bytes": 882
+  },
+  {
+    "timestamp": "2025-01-15T10:40:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 454,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1975,
+    "response_size_bytes": 10265
+  },
+  {
+    "timestamp": "2025-01-15T10:40:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 86,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 281,
+    "response_size_bytes": 675
+  },
+  {
+    "timestamp": "2025-01-15T10:40:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 134,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 271,
+    "response_size_bytes": 1094
+  },
+  {
+    "timestamp": "2025-01-15T10:41:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_007",
+    "request_size_bytes": 510,
+    "response_size_bytes": 1270
+  },
+  {
+    "timestamp": "2025-01-15T10:41:09.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 236,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 298,
+    "response_size_bytes": 2011
+  },
+  {
+    "timestamp": "2025-01-15T10:41:16.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 132,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 385,
+    "response_size_bytes": 1707
+  },
+  {
+    "timestamp": "2025-01-15T10:41:24Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 93,
+    "status_code": 201,
+    "user_id": "user_030",
+    "request_size_bytes": 399,
+    "response_size_bytes": 1279
+  },
+  {
+    "timestamp": "2025-01-15T10:41:31.200000Z",
+    "endpoint": "/api/reports",
+    "method": "POST",
+    "response_time_ms": 1843,
+    "status_code": 201,
+    "user_id": "user_024",
+    "request_size_bytes": 743,
+    "response_size_bytes": 18150
+  },
+  {
+    "timestamp": "2025-01-15T10:41:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 168,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 332,
+    "response_size_bytes": 1803
+  },
+  {
+    "timestamp": "2025-01-15T10:41:45.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2380,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 643,
+    "response_size_bytes": 16161
+  },
+  {
+    "timestamp": "2025-01-15T10:41:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 237,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 296,
+    "response_size_bytes": 1205
+  },
+  {
+    "timestamp": "2025-01-15T10:42:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 362,
+    "response_size_bytes": 3027
+  },
+  {
+    "timestamp": "2025-01-15T10:42:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 146,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 308,
+    "response_size_bytes": 1540
+  },
+  {
+    "timestamp": "2025-01-15T10:42:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 167,
+    "status_code": 201,
+    "user_id": "user_020",
+    "request_size_bytes": 445,
+    "response_size_bytes": 888
+  },
+  {
+    "timestamp": "2025-01-15T10:42:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 241,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 455,
+    "response_size_bytes": 2093
+  },
+  {
+    "timestamp": "2025-01-15T10:42:28.800000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 175,
+    "status_code": 201,
+    "user_id": "user_030",
+    "request_size_bytes": 273,
+    "response_size_bytes": 1545
+  },
+  {
+    "timestamp": "2025-01-15T10:42:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 502,
+    "response_size_bytes": 3911
+  },
+  {
+    "timestamp": "2025-01-15T10:42:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 147,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 503,
+    "response_size_bytes": 671
+  },
+  {
+    "timestamp": "2025-01-15T10:42:50.400000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2500,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 423,
+    "response_size_bytes": 18537
+  },
+  {
+    "timestamp": "2025-01-15T10:42:57.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1112,
+    "status_code": 200,
+    "user_id": "user_010",
+    "request_size_bytes": 2432,
+    "response_size_bytes": 363
+  },
+  {
+    "timestamp": "2025-01-15T10:43:04.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 439,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1996,
+    "response_size_bytes": 11600
+  },
+  {
+    "timestamp": "2025-01-15T10:43:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 304,
+    "response_size_bytes": 1973
+  },
+  {
+    "timestamp": "2025-01-15T10:43:19.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 398,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 653,
+    "response_size_bytes": 8839
+  },
+  {
+    "timestamp": "2025-01-15T10:43:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 876,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 3055,
+    "response_size_bytes": 946
+  },
+  {
+    "timestamp": "2025-01-15T10:43:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 185,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 494,
+    "response_size_bytes": 1660
+  },
+  {
+    "timestamp": "2025-01-15T10:43:40.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 93,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 336,
+    "response_size_bytes": 518
+  },
+  {
+    "timestamp": "2025-01-15T10:43:48Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1056,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1317,
+    "response_size_bytes": 453
+  },
+  {
+    "timestamp": "2025-01-15T10:43:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 151,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 481,
+    "response_size_bytes": 3515
+  },
+  {
+    "timestamp": "2025-01-15T10:44:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 205,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 468,
+    "response_size_bytes": 2997
+  },
+  {
+    "timestamp": "2025-01-15T10:44:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 80,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 375,
+    "response_size_bytes": 1591
+  },
+  {
+    "timestamp": "2025-01-15T10:44:16.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 532,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1519,
+    "response_size_bytes": 5806
+  },
+  {
+    "timestamp": "2025-01-15T10:44:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 101,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 265,
+    "response_size_bytes": 1664
+  },
+  {
+    "timestamp": "2025-01-15T10:44:31.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 149,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 508,
+    "response_size_bytes": 2275
+  },
+  {
+    "timestamp": "2025-01-15T10:44:38.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 116,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 274,
+    "response_size_bytes": 1263
+  },
+  {
+    "timestamp": "2025-01-15T10:44:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 345,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 1425,
+    "response_size_bytes": 8930
+  },
+  {
+    "timestamp": "2025-01-15T10:44:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 510,
+    "response_size_bytes": 3301
+  },
+  {
+    "timestamp": "2025-01-15T10:45:00.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1646
+  },
+  {
+    "timestamp": "2025-01-15T10:45:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 166,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 268,
+    "response_size_bytes": 3461
+  },
+  {
+    "timestamp": "2025-01-15T10:45:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 247,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1759
+  },
+  {
+    "timestamp": "2025-01-15T10:45:01.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 101,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1676
+  },
+  {
+    "timestamp": "2025-01-15T10:45:01Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1049
+  },
+  {
+    "timestamp": "2025-01-15T10:45:02.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 202,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1251
+  },
+  {
+    "timestamp": "2025-01-15T10:45:02Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 106,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1778
+  },
+  {
+    "timestamp": "2025-01-15T10:45:03.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 209,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1138
+  },
+  {
+    "timestamp": "2025-01-15T10:45:03Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 163,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1455
+  },
+  {
+    "timestamp": "2025-01-15T10:45:04.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 187,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1965
+  },
+  {
+    "timestamp": "2025-01-15T10:45:04Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 246,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1282
+  },
+  {
+    "timestamp": "2025-01-15T10:45:05.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 184,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1123
+  },
+  {
+    "timestamp": "2025-01-15T10:45:05Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 249,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1608
+  },
+  {
+    "timestamp": "2025-01-15T10:45:06.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 142,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1330
+  },
+  {
+    "timestamp": "2025-01-15T10:45:06Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 209,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1284
+  },
+  {
+    "timestamp": "2025-01-15T10:45:07.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 138,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 265,
+    "response_size_bytes": 2383
+  },
+  {
+    "timestamp": "2025-01-15T10:45:07.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 173,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1481
+  },
+  {
+    "timestamp": "2025-01-15T10:45:07Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 230,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1548
+  },
+  {
+    "timestamp": "2025-01-15T10:45:08.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 105,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1753
+  },
+  {
+    "timestamp": "2025-01-15T10:45:08Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 206,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1079
+  },
+  {
+    "timestamp": "2025-01-15T10:45:09.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 142,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2015
+  },
+  {
+    "timestamp": "2025-01-15T10:45:09Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 185,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1960
+  },
+  {
+    "timestamp": "2025-01-15T10:45:10.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 181,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1078
+  },
+  {
+    "timestamp": "2025-01-15T10:45:10Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 172,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1480
+  },
+  {
+    "timestamp": "2025-01-15T10:45:11.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 211,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1296
+  },
+  {
+    "timestamp": "2025-01-15T10:45:11Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 184,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1926
+  },
+  {
+    "timestamp": "2025-01-15T10:45:12.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1732
+  },
+  {
+    "timestamp": "2025-01-15T10:45:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1338
+  },
+  {
+    "timestamp": "2025-01-15T10:45:13.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 237,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1666
+  },
+  {
+    "timestamp": "2025-01-15T10:45:13Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1631
+  },
+  {
+    "timestamp": "2025-01-15T10:45:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 116,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 453,
+    "response_size_bytes": 2045
+  },
+  {
+    "timestamp": "2025-01-15T10:45:14.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1724
+  },
+  {
+    "timestamp": "2025-01-15T10:45:14Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 115,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1671
+  },
+  {
+    "timestamp": "2025-01-15T10:45:15.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 154,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2046
+  },
+  {
+    "timestamp": "2025-01-15T10:45:15Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 212,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1698
+  },
+  {
+    "timestamp": "2025-01-15T10:45:16.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 146,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1227
+  },
+  {
+    "timestamp": "2025-01-15T10:45:16Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 198,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1137
+  },
+  {
+    "timestamp": "2025-01-15T10:45:17.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 224,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1761
+  },
+  {
+    "timestamp": "2025-01-15T10:45:17Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 141,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1410
+  },
+  {
+    "timestamp": "2025-01-15T10:45:18.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 133,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1606
+  },
+  {
+    "timestamp": "2025-01-15T10:45:18Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 235,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1516
+  },
+  {
+    "timestamp": "2025-01-15T10:45:19.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 201,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1421
+  },
+  {
+    "timestamp": "2025-01-15T10:45:19Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 162,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1379
+  },
+  {
+    "timestamp": "2025-01-15T10:45:20.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 181,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1467
+  },
+  {
+    "timestamp": "2025-01-15T10:45:20Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 198,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1584
+  },
+  {
+    "timestamp": "2025-01-15T10:45:21.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 232,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1282
+  },
+  {
+    "timestamp": "2025-01-15T10:45:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 161,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 433,
+    "response_size_bytes": 3138
+  },
+  {
+    "timestamp": "2025-01-15T10:45:21Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 249,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1148
+  },
+  {
+    "timestamp": "2025-01-15T10:45:22.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 220,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1567
+  },
+  {
+    "timestamp": "2025-01-15T10:45:22Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 184,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1178
+  },
+  {
+    "timestamp": "2025-01-15T10:45:23.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 179,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1211
+  },
+  {
+    "timestamp": "2025-01-15T10:45:23Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 118,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1460
+  },
+  {
+    "timestamp": "2025-01-15T10:45:24.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 153,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1063
+  },
+  {
+    "timestamp": "2025-01-15T10:45:24Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 168,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1358
+  },
+  {
+    "timestamp": "2025-01-15T10:45:25.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 243,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2020
+  },
+  {
+    "timestamp": "2025-01-15T10:45:25Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1025
+  },
+  {
+    "timestamp": "2025-01-15T10:45:26.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 104,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1527
+  },
+  {
+    "timestamp": "2025-01-15T10:45:26Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 137,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1724
+  },
+  {
+    "timestamp": "2025-01-15T10:45:27.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 147,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1248
+  },
+  {
+    "timestamp": "2025-01-15T10:45:27Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 105,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1438
+  },
+  {
+    "timestamp": "2025-01-15T10:45:28.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 174,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1433
+  },
+  {
+    "timestamp": "2025-01-15T10:45:28.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 539,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2014,
+    "response_size_bytes": 8868
+  },
+  {
+    "timestamp": "2025-01-15T10:45:28Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 180,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1487
+  },
+  {
+    "timestamp": "2025-01-15T10:45:29.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 133,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1227
+  },
+  {
+    "timestamp": "2025-01-15T10:45:29Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 184,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1568
+  },
+  {
+    "timestamp": "2025-01-15T10:45:30.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 100,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1390
+  },
+  {
+    "timestamp": "2025-01-15T10:45:30Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 168,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1714
+  },
+  {
+    "timestamp": "2025-01-15T10:45:31.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 195,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1508
+  },
+  {
+    "timestamp": "2025-01-15T10:45:31Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 141,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1594
+  },
+  {
+    "timestamp": "2025-01-15T10:45:32.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1996
+  },
+  {
+    "timestamp": "2025-01-15T10:45:32Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 143,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1216
+  },
+  {
+    "timestamp": "2025-01-15T10:45:33.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 176,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1871
+  },
+  {
+    "timestamp": "2025-01-15T10:45:33Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 124,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2032
+  },
+  {
+    "timestamp": "2025-01-15T10:45:34.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 138,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1604
+  },
+  {
+    "timestamp": "2025-01-15T10:45:34Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 118,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1353
+  },
+  {
+    "timestamp": "2025-01-15T10:45:35.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1464
+  },
+  {
+    "timestamp": "2025-01-15T10:45:35Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1964
+  },
+  {
+    "timestamp": "2025-01-15T10:45:36.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 192,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1097
+  },
+  {
+    "timestamp": "2025-01-15T10:45:36Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 114,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 493,
+    "response_size_bytes": 1004
+  },
+  {
+    "timestamp": "2025-01-15T10:45:36Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 181,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1647
+  },
+  {
+    "timestamp": "2025-01-15T10:45:37.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 178,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1704
+  },
+  {
+    "timestamp": "2025-01-15T10:45:37Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1667
+  },
+  {
+    "timestamp": "2025-01-15T10:45:38.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 119,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1141
+  },
+  {
+    "timestamp": "2025-01-15T10:45:38Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 166,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1561
+  },
+  {
+    "timestamp": "2025-01-15T10:45:39.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 148,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1917
+  },
+  {
+    "timestamp": "2025-01-15T10:45:39Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 150,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1765
+  },
+  {
+    "timestamp": "2025-01-15T10:45:40.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 210,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1382
+  },
+  {
+    "timestamp": "2025-01-15T10:45:40Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 181,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1324
+  },
+  {
+    "timestamp": "2025-01-15T10:45:41.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 105,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1397
+  },
+  {
+    "timestamp": "2025-01-15T10:45:41Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 136,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1995
+  },
+  {
+    "timestamp": "2025-01-15T10:45:42.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 164,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1461
+  },
+  {
+    "timestamp": "2025-01-15T10:45:42Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 127,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1647
+  },
+  {
+    "timestamp": "2025-01-15T10:45:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 195,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 465,
+    "response_size_bytes": 600
+  },
+  {
+    "timestamp": "2025-01-15T10:45:43.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 225,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1774
+  },
+  {
+    "timestamp": "2025-01-15T10:45:43Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 245,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1443
+  },
+  {
+    "timestamp": "2025-01-15T10:45:44.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 223,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1910
+  },
+  {
+    "timestamp": "2025-01-15T10:45:44Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 203,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1571
+  },
+  {
+    "timestamp": "2025-01-15T10:45:45.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 145,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1754
+  },
+  {
+    "timestamp": "2025-01-15T10:45:45Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 112,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2009
+  },
+  {
+    "timestamp": "2025-01-15T10:45:46.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 139,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1355
+  },
+  {
+    "timestamp": "2025-01-15T10:45:46Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 203,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1101
+  },
+  {
+    "timestamp": "2025-01-15T10:45:47.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1515
+  },
+  {
+    "timestamp": "2025-01-15T10:45:47Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 155,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1873
+  },
+  {
+    "timestamp": "2025-01-15T10:45:48.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 195,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1566
+  },
+  {
+    "timestamp": "2025-01-15T10:45:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 186,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1177
+  },
+  {
+    "timestamp": "2025-01-15T10:45:49.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1730
+  },
+  {
+    "timestamp": "2025-01-15T10:45:49Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 149,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1214
+  },
+  {
+    "timestamp": "2025-01-15T10:45:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 168,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 440,
+    "response_size_bytes": 3760
+  },
+  {
+    "timestamp": "2025-01-15T10:45:50.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 182,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1737
+  },
+  {
+    "timestamp": "2025-01-15T10:45:50Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 117,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1241
+  },
+  {
+    "timestamp": "2025-01-15T10:45:51.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1954
+  },
+  {
+    "timestamp": "2025-01-15T10:45:51Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 151,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1908
+  },
+  {
+    "timestamp": "2025-01-15T10:45:52.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1902
+  },
+  {
+    "timestamp": "2025-01-15T10:45:52Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 226,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1718
+  },
+  {
+    "timestamp": "2025-01-15T10:45:53.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 224,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1834
+  },
+  {
+    "timestamp": "2025-01-15T10:45:53Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 127,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1371
+  },
+  {
+    "timestamp": "2025-01-15T10:45:54.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 162,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1661
+  },
+  {
+    "timestamp": "2025-01-15T10:45:54Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 106,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1031
+  },
+  {
+    "timestamp": "2025-01-15T10:45:55.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2011
+  },
+  {
+    "timestamp": "2025-01-15T10:45:55Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 164,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1067
+  },
+  {
+    "timestamp": "2025-01-15T10:45:56.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 152,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1562
+  },
+  {
+    "timestamp": "2025-01-15T10:45:56Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 123,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1700
+  },
+  {
+    "timestamp": "2025-01-15T10:45:57.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 104,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1999
+  },
+  {
+    "timestamp": "2025-01-15T10:45:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 323,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 324,
+    "response_size_bytes": 1278
+  },
+  {
+    "timestamp": "2025-01-15T10:45:57Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 136,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1377
+  },
+  {
+    "timestamp": "2025-01-15T10:45:58.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 196,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1739
+  },
+  {
+    "timestamp": "2025-01-15T10:45:58Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 178,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 2021
+  },
+  {
+    "timestamp": "2025-01-15T10:45:59.500000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 109,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1251
+  },
+  {
+    "timestamp": "2025-01-15T10:45:59Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 172,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1760
+  },
+  {
+    "timestamp": "2025-01-15T10:46:04.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 403,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 744,
+    "response_size_bytes": 8268
+  },
+  {
+    "timestamp": "2025-01-15T10:46:12Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 198,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 360,
+    "response_size_bytes": 1517
+  },
+  {
+    "timestamp": "2025-01-15T10:46:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 103,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 440,
+    "response_size_bytes": 3451
+  },
+  {
+    "timestamp": "2025-01-15T10:46:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1069,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 2859,
+    "response_size_bytes": 621
+  },
+  {
+    "timestamp": "2025-01-15T10:46:33.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 408,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1911,
+    "response_size_bytes": 9421
+  },
+  {
+    "timestamp": "2025-01-15T10:46:40.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 925,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2596,
+    "response_size_bytes": 668
+  },
+  {
+    "timestamp": "2025-01-15T10:46:48Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 320,
+    "response_size_bytes": 573
+  },
+  {
+    "timestamp": "2025-01-15T10:46:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 103,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 361,
+    "response_size_bytes": 1267
+  },
+  {
+    "timestamp": "2025-01-15T10:47:02.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 170,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 493,
+    "response_size_bytes": 1435
+  },
+  {
+    "timestamp": "2025-01-15T10:47:09.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1098,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1370,
+    "response_size_bytes": 297
+  },
+  {
+    "timestamp": "2025-01-15T10:47:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 124,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 495,
+    "response_size_bytes": 1690
+  },
+  {
+    "timestamp": "2025-01-15T10:47:24Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 705,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 2203,
+    "response_size_bytes": 737
+  },
+  {
+    "timestamp": "2025-01-15T10:47:31.200000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 234,
+    "status_code": 201,
+    "user_id": "user_022",
+    "request_size_bytes": 341,
+    "response_size_bytes": 1912
+  },
+  {
+    "timestamp": "2025-01-15T10:47:38.400000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2001,
+    "status_code": 200,
+    "user_id": "user_008",
+    "request_size_bytes": 1023,
+    "response_size_bytes": 19368
+  },
+  {
+    "timestamp": "2025-01-15T10:47:45.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 186,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 467,
+    "response_size_bytes": 736
+  },
+  {
+    "timestamp": "2025-01-15T10:47:52.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 310,
+    "response_size_bytes": 812
+  },
+  {
+    "timestamp": "2025-01-15T10:48:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 124,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 269,
+    "response_size_bytes": 1359
+  },
+  {
+    "timestamp": "2025-01-15T10:48:07.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 112,
+    "status_code": 200,
+    "user_id": "user_022",
+    "request_size_bytes": 511,
+    "response_size_bytes": 3133
+  },
+  {
+    "timestamp": "2025-01-15T10:48:14.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1186,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 3033,
+    "response_size_bytes": 902
+  },
+  {
+    "timestamp": "2025-01-15T10:48:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 114,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 404,
+    "response_size_bytes": 3893
+  },
+  {
+    "timestamp": "2025-01-15T10:48:28.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 545,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 932,
+    "response_size_bytes": 10092
+  },
+  {
+    "timestamp": "2025-01-15T10:48:36Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2460,
+    "status_code": 200,
+    "user_id": "user_007",
+    "request_size_bytes": 998,
+    "response_size_bytes": 18032
+  },
+  {
+    "timestamp": "2025-01-15T10:48:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 96,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 405,
+    "response_size_bytes": 1452
+  },
+  {
+    "timestamp": "2025-01-15T10:48:50.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 308,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1539,
+    "response_size_bytes": 4845
+  },
+  {
+    "timestamp": "2025-01-15T10:48:57.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 917,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 1889,
+    "response_size_bytes": 498
+  },
+  {
+    "timestamp": "2025-01-15T10:49:04.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 546,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 1417,
+    "response_size_bytes": 11727
+  },
+  {
+    "timestamp": "2025-01-15T10:49:12Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 903,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 2500,
+    "response_size_bytes": 368
+  },
+  {
+    "timestamp": "2025-01-15T10:49:19.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 823,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 1038,
+    "response_size_bytes": 554
+  },
+  {
+    "timestamp": "2025-01-15T10:49:26.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 148,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 477,
+    "response_size_bytes": 861
+  },
+  {
+    "timestamp": "2025-01-15T10:49:33.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 179,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 302,
+    "response_size_bytes": 2448
+  },
+  {
+    "timestamp": "2025-01-15T10:49:40.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 123,
+    "status_code": 200,
+    "user_id": "user_016",
+    "request_size_bytes": 324,
+    "response_size_bytes": 3089
+  },
+  {
+    "timestamp": "2025-01-15T10:49:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 151,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 345,
+    "response_size_bytes": 2190
+  },
+  {
+    "timestamp": "2025-01-15T10:49:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 199,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 501,
+    "response_size_bytes": 695
+  },
+  {
+    "timestamp": "2025-01-15T10:50:02.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 237,
+    "status_code": 200,
+    "user_id": "user_015",
+    "request_size_bytes": 497,
+    "response_size_bytes": 2989
+  },
+  {
+    "timestamp": "2025-01-15T10:50:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 188,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 464,
+    "response_size_bytes": 1808
+  },
+  {
+    "timestamp": "2025-01-15T10:50:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 101,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 476,
+    "response_size_bytes": 3354
+  },
+  {
+    "timestamp": "2025-01-15T10:50:24Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 121,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 358,
+    "response_size_bytes": 892
+  },
+  {
+    "timestamp": "2025-01-15T10:50:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 103,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 475,
+    "response_size_bytes": 2000
+  },
+  {
+    "timestamp": "2025-01-15T10:50:38.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 448,
+    "response_size_bytes": 1514
+  },
+  {
+    "timestamp": "2025-01-15T10:50:45.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2209,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 380,
+    "response_size_bytes": 20431
+  },
+  {
+    "timestamp": "2025-01-15T10:50:52.800000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2003,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 880,
+    "response_size_bytes": 14443
+  },
+  {
+    "timestamp": "2025-01-15T10:51:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 185,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 410,
+    "response_size_bytes": 842
+  },
+  {
+    "timestamp": "2025-01-15T10:51:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 83,
+    "status_code": 200,
+    "user_id": "user_020",
+    "request_size_bytes": 295,
+    "response_size_bytes": 769
+  },
+  {
+    "timestamp": "2025-01-15T10:51:14.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 168,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 461,
+    "response_size_bytes": 858
+  },
+  {
+    "timestamp": "2025-01-15T10:51:21.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 359,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1588,
+    "response_size_bytes": 5999
+  },
+  {
+    "timestamp": "2025-01-15T10:51:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 204,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 478,
+    "response_size_bytes": 3841
+  },
+  {
+    "timestamp": "2025-01-15T10:51:36Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 318,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 1995,
+    "response_size_bytes": 5619
+  },
+  {
+    "timestamp": "2025-01-15T10:51:43.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 363,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 832,
+    "response_size_bytes": 4413
+  },
+  {
+    "timestamp": "2025-01-15T10:51:50.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 220,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 457,
+    "response_size_bytes": 1724
+  },
+  {
+    "timestamp": "2025-01-15T10:51:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 236,
+    "status_code": 503,
+    "user_id": "user_008",
+    "request_size_bytes": 295,
+    "response_size_bytes": 2711
+  },
+  {
+    "timestamp": "2025-01-15T10:52:04.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 779,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2140,
+    "response_size_bytes": 688
+  },
+  {
+    "timestamp": "2025-01-15T10:52:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 139,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 395,
+    "response_size_bytes": 2471
+  },
+  {
+    "timestamp": "2025-01-15T10:52:19.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 184,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 334,
+    "response_size_bytes": 1586
+  },
+  {
+    "timestamp": "2025-01-15T10:52:26.400000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 436,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 2008,
+    "response_size_bytes": 9208
+  },
+  {
+    "timestamp": "2025-01-15T10:52:33.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1145,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 2433,
+    "response_size_bytes": 993
+  },
+  {
+    "timestamp": "2025-01-15T10:52:40.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 131,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 446,
+    "response_size_bytes": 3904
+  },
+  {
+    "timestamp": "2025-01-15T10:52:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 236,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 458,
+    "response_size_bytes": 3886
+  },
+  {
+    "timestamp": "2025-01-15T10:52:55.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 949,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2310,
+    "response_size_bytes": 808
+  },
+  {
+    "timestamp": "2025-01-15T10:53:02.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 85,
+    "status_code": 200,
+    "user_id": "user_010",
+    "request_size_bytes": 422,
+    "response_size_bytes": 1669
+  },
+  {
+    "timestamp": "2025-01-15T10:53:09.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 146,
+    "status_code": 400,
+    "user_id": "user_018",
+    "request_size_bytes": 369,
+    "response_size_bytes": 2878
+  },
+  {
+    "timestamp": "2025-01-15T10:53:16.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 91,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 496,
+    "response_size_bytes": 1835
+  },
+  {
+    "timestamp": "2025-01-15T10:53:24Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 191,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 317,
+    "response_size_bytes": 2090
+  },
+  {
+    "timestamp": "2025-01-15T10:53:31.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 199,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 304,
+    "response_size_bytes": 3112
+  },
+  {
+    "timestamp": "2025-01-15T10:53:38.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 174,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 364,
+    "response_size_bytes": 1277
+  },
+  {
+    "timestamp": "2025-01-15T10:53:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 379,
+    "status_code": 200,
+    "user_id": "user_012",
+    "request_size_bytes": 1749,
+    "response_size_bytes": 7298
+  },
+  {
+    "timestamp": "2025-01-15T10:53:52.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 383,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1664,
+    "response_size_bytes": 9549
+  },
+  {
+    "timestamp": "2025-01-15T10:54:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 88,
+    "status_code": 200,
+    "user_id": "user_026",
+    "request_size_bytes": 340,
+    "response_size_bytes": 576
+  },
+  {
+    "timestamp": "2025-01-15T10:54:07.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 80,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 359,
+    "response_size_bytes": 1580
+  },
+  {
+    "timestamp": "2025-01-15T10:54:14.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 754,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 1820,
+    "response_size_bytes": 797
+  },
+  {
+    "timestamp": "2025-01-15T10:54:21.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 236,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 484,
+    "response_size_bytes": 2382
+  },
+  {
+    "timestamp": "2025-01-15T10:54:28.800000Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 227,
+    "status_code": 201,
+    "user_id": "user_029",
+    "request_size_bytes": 460,
+    "response_size_bytes": 2508
+  },
+  {
+    "timestamp": "2025-01-15T10:54:36Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 956,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2983,
+    "response_size_bytes": 973
+  },
+  {
+    "timestamp": "2025-01-15T10:54:43.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 887,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 2357,
+    "response_size_bytes": 428
+  },
+  {
+    "timestamp": "2025-01-15T10:54:50.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 275,
+    "response_size_bytes": 1304
+  },
+  {
+    "timestamp": "2025-01-15T10:54:57.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 198,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 278,
+    "response_size_bytes": 2496
+  },
+  {
+    "timestamp": "2025-01-15T10:55:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 84,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 482,
+    "response_size_bytes": 1326
+  },
+  {
+    "timestamp": "2025-01-15T10:55:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 194,
+    "status_code": 200,
+    "user_id": "user_014",
+    "request_size_bytes": 355,
+    "response_size_bytes": 1961
+  },
+  {
+    "timestamp": "2025-01-15T10:55:19.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 306,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 2003,
+    "response_size_bytes": 6665
+  },
+  {
+    "timestamp": "2025-01-15T10:55:26.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 174,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 462,
+    "response_size_bytes": 2658
+  },
+  {
+    "timestamp": "2025-01-15T10:55:33.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 868,
+    "status_code": 200,
+    "user_id": "user_006",
+    "request_size_bytes": 1440,
+    "response_size_bytes": 790
+  },
+  {
+    "timestamp": "2025-01-15T10:55:40.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 573,
+    "status_code": 200,
+    "user_id": "user_028",
+    "request_size_bytes": 1855,
+    "response_size_bytes": 10202
+  },
+  {
+    "timestamp": "2025-01-15T10:55:48Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 219,
+    "status_code": 200,
+    "user_id": "user_025",
+    "request_size_bytes": 448,
+    "response_size_bytes": 3608
+  },
+  {
+    "timestamp": "2025-01-15T10:55:55.200000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 196,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 491,
+    "response_size_bytes": 1570
+  },
+  {
+    "timestamp": "2025-01-15T10:56:02.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 717,
+    "status_code": 200,
+    "user_id": "user_019",
+    "request_size_bytes": 2062,
+    "response_size_bytes": 1017
+  },
+  {
+    "timestamp": "2025-01-15T10:56:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 187,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 269,
+    "response_size_bytes": 1132
+  },
+  {
+    "timestamp": "2025-01-15T10:56:16.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 189,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 451,
+    "response_size_bytes": 3328
+  },
+  {
+    "timestamp": "2025-01-15T10:56:24Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 190,
+    "status_code": 200,
+    "user_id": "user_027",
+    "request_size_bytes": 309,
+    "response_size_bytes": 4096
+  },
+  {
+    "timestamp": "2025-01-15T10:56:31.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 507,
+    "response_size_bytes": 1905
+  },
+  {
+    "timestamp": "2025-01-15T10:56:38.400000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 182,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 486,
+    "response_size_bytes": 972
+  },
+  {
+    "timestamp": "2025-01-15T10:56:45.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 490,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1324,
+    "response_size_bytes": 5165
+  },
+  {
+    "timestamp": "2025-01-15T10:56:52.800000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 721,
+    "status_code": 200,
+    "user_id": "user_011",
+    "request_size_bytes": 2768,
+    "response_size_bytes": 289
+  },
+  {
+    "timestamp": "2025-01-15T10:57:00Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 247,
+    "status_code": 200,
+    "user_id": "user_018",
+    "request_size_bytes": 392,
+    "response_size_bytes": 2039
+  },
+  {
+    "timestamp": "2025-01-15T10:57:07.200000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 385,
+    "status_code": 200,
+    "user_id": "user_013",
+    "request_size_bytes": 909,
+    "response_size_bytes": 7453
+  },
+  {
+    "timestamp": "2025-01-15T10:57:14.400000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 105,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 442,
+    "response_size_bytes": 3136
+  },
+  {
+    "timestamp": "2025-01-15T10:57:21.600000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 558,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 1777,
+    "response_size_bytes": 9294
+  },
+  {
+    "timestamp": "2025-01-15T10:57:28.800000Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 461,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 1957,
+    "response_size_bytes": 11828
+  },
+  {
+    "timestamp": "2025-01-15T10:57:36Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1806,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 266,
+    "response_size_bytes": 12597
+  },
+  {
+    "timestamp": "2025-01-15T10:57:43.200000Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 122,
+    "status_code": 201,
+    "user_id": "user_001",
+    "request_size_bytes": 302,
+    "response_size_bytes": 1022
+  },
+  {
+    "timestamp": "2025-01-15T10:57:50.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 729,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 1025,
+    "response_size_bytes": 605
+  },
+  {
+    "timestamp": "2025-01-15T10:57:57.600000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1032,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2695,
+    "response_size_bytes": 316
+  },
+  {
+    "timestamp": "2025-01-15T10:58:04.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 148,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 467,
+    "response_size_bytes": 1817
+  },
+  {
+    "timestamp": "2025-01-15T10:58:12Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 122,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 480,
+    "response_size_bytes": 3193
+  },
+  {
+    "timestamp": "2025-01-15T10:58:19.200000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2063,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 647,
+    "response_size_bytes": 15073
+  },
+  {
+    "timestamp": "2025-01-15T10:58:26.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1183,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 2837,
+    "response_size_bytes": 383
+  },
+  {
+    "timestamp": "2025-01-15T10:58:33.600000Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2313,
+    "status_code": 500,
+    "user_id": "user_006",
+    "request_size_bytes": 578,
+    "response_size_bytes": 16705
+  },
+  {
+    "timestamp": "2025-01-15T10:58:40.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 114,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 270,
+    "response_size_bytes": 1076
+  },
+  {
+    "timestamp": "2025-01-15T10:58:48Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1130,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2249,
+    "response_size_bytes": 423
+  },
+  {
+    "timestamp": "2025-01-15T10:58:55.200000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 167,
+    "status_code": 200,
+    "user_id": "user_009",
+    "request_size_bytes": 490,
+    "response_size_bytes": 1134
+  },
+  {
+    "timestamp": "2025-01-15T10:59:02.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1078,
+    "status_code": 200,
+    "user_id": "user_017",
+    "request_size_bytes": 2733,
+    "response_size_bytes": 729
+  },
+  {
+    "timestamp": "2025-01-15T10:59:09.600000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 147,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 331,
+    "response_size_bytes": 1775
+  },
+  {
+    "timestamp": "2025-01-15T10:59:16.800000Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 102,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 373,
+    "response_size_bytes": 515
+  },
+  {
+    "timestamp": "2025-01-15T10:59:24Z",
+    "endpoint": "/api/products",
+    "method": "POST",
+    "response_time_ms": 134,
+    "status_code": 201,
+    "user_id": "user_014",
+    "request_size_bytes": 294,
+    "response_size_bytes": 1634
+  },
+  {
+    "timestamp": "2025-01-15T10:59:31.200000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1115,
+    "status_code": 200,
+    "user_id": "user_021",
+    "request_size_bytes": 2817,
+    "response_size_bytes": 845
+  },
+  {
+    "timestamp": "2025-01-15T10:59:38.400000Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 876,
+    "status_code": 200,
+    "user_id": "user_030",
+    "request_size_bytes": 1845,
+    "response_size_bytes": 605
+  },
+  {
+    "timestamp": "2025-01-15T10:59:45.600000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 144,
+    "status_code": 200,
+    "user_id": "user_029",
+    "request_size_bytes": 393,
+    "response_size_bytes": 2409
+  },
+  {
+    "timestamp": "2025-01-15T10:59:52.800000Z",
+    "endpoint": "/api/products",
+    "method": "GET",
+    "response_time_ms": 169,
+    "status_code": 200,
+    "user_id": "user_024",
+    "request_size_bytes": 494,
+    "response_size_bytes": 2570
+  }
+]
