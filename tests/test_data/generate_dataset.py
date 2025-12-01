@@ -2,7 +2,7 @@ import json
 import random
 from datetime import datetime, timedelta
 
-def generate_large_dataset():
+def generate_dataset():
     logs = []
     
     endpoints = {
@@ -21,7 +21,7 @@ def generate_large_dataset():
     base_time = datetime(2025, 1, 15, 10, 0, 0)
     
     # Generate 500 logs over 1 hour
-    for i in range(500):
+    for i in range(10000):
         # Pick endpoint based on weights
         endpoint = random.choices(
             list(endpoints.keys()),
@@ -128,7 +128,7 @@ def generate_large_dataset():
     return logs
 
 # Generate and save
-logs = generate_large_dataset()
+logs = generate_dataset()
 
 
 with open('test_data/sample_large.json', 'w') as f:

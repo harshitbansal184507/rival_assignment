@@ -41,7 +41,7 @@ def analyze_api_logs(logs: List[Dict[str, Any]]) -> Dict[str, Any]:
         "hourly_distribution": hourly_distribution,
         "top_users_by_requests": top_users , 
         "cost_analysis": cost_analysis , 
-        "caching_analysis": caching_analysis
+        "caching_opportunities": caching_analysis
     }
     
     return report
