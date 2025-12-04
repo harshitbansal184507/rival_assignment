@@ -8,18 +8,29 @@ import advanced_features.cost_estimation
 import advanced_features.caching
 
 
-def analyze_api_logs(logs: List[Dict[str, Any]]) -> Dict[str, Any]:
+def analyze_api_logs(logs: List[Dict[str, Any]] , starttime : any, endtime: any) -> Dict[str, Any]:
    
     if not isinstance(logs, list):
         raise ValueError("logs must be a list")
     
     if len(logs) == 0:
         return utils._create_empty_report()
-    
+    if starttime is not None and endtime is not None:
+        starttime = utils.parse_timestamp(starttime)
+        endtime = utils.parse_timestamp(endtime)
     valid_logs = []
+    
     for log in logs:
-        if utils.validate_log_entry(log):
-            valid_logs.append(log)
+        if utils.validate_log_entry(log) :
+            
+            try :
+                log_time = utils.parse_timestamp(log["timestamp"])
+                if starttime <= log_time <= endtime:
+                    valid_logs.append(log)
+                    continue
+            except :
+                valid_logs.append(log)    
+        
     
     if len(valid_logs) == 0:
         return utils._create_empty_report()

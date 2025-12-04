@@ -31,6 +31,10 @@ def _calculate_summary(logs: List[Dict[str, Any]]) -> Dict[str, Any]:
         "error_rate_percentage": round(error_rate, 1)
     }
     
+def analyse_logs_between(logs: List[Dict[str, Any]], start: datetime, end: datetime) -> List[Dict[str, Any]]:
+    logs = [log for log in logs if start <= utils.parse_timestamp(log["timestamp"]) <= end]
+    
+    
 def _calculate_endpoint_stats(logs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     
     

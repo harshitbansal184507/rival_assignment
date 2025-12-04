@@ -8,6 +8,6 @@ from main import analyze_api_logs
 with open("test_data/sample_large.json", "r") as f:
     logs = json.load(f)
 
-result = analyze_api_logs(logs)
+result = analyze_api_logs(logs, starttime="2025-01-15T10:00:00Z", endtime="2025-01-15T14:00:00Z")
 
 print(json.dumps(result, indent=2))

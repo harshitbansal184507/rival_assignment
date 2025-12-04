@@ -38,7 +38,7 @@ def validate_log_entry(log: Dict[str, Any]) -> bool:
    
     required_fields = [
         "timestamp", "endpoint", "method", "response_time_ms",
-        "status_code", "user_id", "request_size_bytes", "response_size_bytes"
+        "status_code", "user_id", "request_size_bytes", "response_size_bytes" 
     ]
     for field in required_fields:
         if field not in log:
